@@ -1,2 +1,2 @@
 # skincare-server
-Using json server
+Using json server.
