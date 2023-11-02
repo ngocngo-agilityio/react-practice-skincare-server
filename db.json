@@ -1,768 +1,525 @@
 {
-    "users": [
-        {
-          "createdAt": "2023-10-31T12:16:51.552Z",
-          "name": "Dr. Lela Auer",
-          "username": "Javier6",
-          "password": "password 1",
-          "mobile": "823-905-1699",
-          "email": "Alice.Christiansen71@yahoo.com",
-          "id": 1
-        },
-        {
-          "createdAt": "2023-11-01T06:43:16.609Z",
-          "name": "Pamela Greenfelder",
-          "username": "Ted_Terry90",
-          "password": "password 2",
-          "mobile": "664-258-4762",
-          "email": "Lyda.Parisian99@hotmail.com",
-          "id": 2
-        },
-        {
-          "createdAt": "2023-10-31T15:25:04.342Z",
-          "name": "Archie Bauch",
-          "username": "Lennie_Halvorson22",
-          "password": "password 3",
-          "mobile": "539-657-5941",
-          "email": "Mallory_Hoeger56@gmail.com",
-          "id": 3
-        },
-        {
-          "createdAt": "2023-10-31T16:20:07.115Z",
-          "name": "Heather Renner",
-          "username": "Moriah_Kling89",
-          "password": "password 4",
-          "mobile": "324-438-5759",
-          "email": "Sherman.Jacobson@hotmail.com",
-          "id": 4
-        },
-        {
-          "createdAt": "2023-11-01T01:55:19.360Z",
-          "name": "Jordan Feest",
-          "username": "Giovani.Hahn29",
-          "password": "password 5",
-          "mobile": "638-690-3468",
-          "email": "Eugenia.Keebler1@yahoo.com",
-          "id": 5
-        },
-        {
-          "createdAt": "2023-10-31T13:14:47.594Z",
-          "name": "Regina Bogisich",
-          "username": "Glennie.Trantow",
-          "password": "password 6",
-          "mobile": "218-703-9312",
-          "email": "Maria_Hamill@gmail.com",
-          "id": 6
-        },
-        {
-          "createdAt": "2023-10-31T22:40:25.893Z",
-          "name": "Ms. Maurice Dare",
-          "username": "Candace_Tremblay",
-          "password": "password 7",
-          "mobile": "223-215-5423",
-          "email": "Dena.Moore@yahoo.com",
-          "id": 7
-        },
-        {
-          "createdAt": "2023-11-01T02:19:12.574Z",
-          "name": "Robert Romaguera",
-          "username": "Danika_Gutmann58",
-          "password": "password 8",
-          "mobile": "975-440-4037",
-          "email": "Emilia49@yahoo.com",
-          "id": 8
-        },
-        {
-          "createdAt": "2023-11-01T06:26:54.481Z",
-          "name": "Seth Armstrong",
-          "username": "Gonzalo35",
-          "password": "password 9",
-          "mobile": "766-244-3120",
-          "email": "Violette.Konopelski7@yahoo.com",
-          "id": 9
-        },
-        {
-          "createdAt": "2023-10-31T12:50:54.296Z",
-          "name": "Misty Waelchi",
-          "username": "Naomie80",
-          "password": "password 10",
-          "mobile": "883-536-5802",
-          "email": "Cassidy.Schumm66@hotmail.com",
-          "id": 10
-        },
-        {
-          "createdAt": "2023-10-31T18:54:58.222Z",
-          "name": "Mack Bauch",
-          "username": "Hailie34",
-          "password": "password 11",
-          "mobile": "236-361-8863",
-          "email": "Kianna58@yahoo.com",
-          "id": 11
-        },
-        {
-          "createdAt": "2023-10-31T14:47:13.754Z",
-          "name": "Bob Fay",
-          "username": "Stephanie.Jerde",
-          "password": "password 12",
-          "mobile": "479-707-6932",
-          "email": "Andreane.Howe@hotmail.com",
-          "id": 12
-        },
-        {
-          "createdAt": "2023-10-31T17:37:19.515Z",
-          "name": "Leroy Reynolds",
-          "username": "Clara_OConnell",
-          "password": "password 13",
-          "mobile": "735-384-6336",
-          "email": "Adonis_Cormier27@yahoo.com",
-          "id": 13
-        },
-        {
-          "createdAt": "2023-10-31T10:50:47.424Z",
-          "name": "Jan Muller",
-          "username": "Eden_Schowalter40",
-          "password": "password 14",
-          "mobile": "862-485-3320",
-          "email": "Kameron56@hotmail.com",
-          "id": 14
-        },
-        {
-          "createdAt": "2023-10-31T15:18:12.302Z",
-          "name": "Eva Walsh",
-          "username": "Jacques83",
-          "password": "password 15",
-          "mobile": "973-343-2279",
-          "email": "Edward.Schulist68@gmail.com",
-          "id": 15
-        },
-        {
-          "createdAt": "2023-10-31T10:52:38.587Z",
-          "name": "Calvin Murphy",
-          "username": "Burley.Shanahan41",
-          "password": "password 16",
-          "mobile": "404-537-3775",
-          "email": "Violette_Gerhold37@gmail.com",
-          "id": 16
-        },
-        {
-          "createdAt": "2023-11-01T07:20:40.604Z",
-          "name": "Marlene Heaney",
-          "username": "Darion_Farrell21",
-          "password": "password 17",
-          "mobile": "669-949-4494",
-          "email": "Nathanael_Hegmann70@yahoo.com",
-          "id": 17
-        },
-        {
-          "createdAt": "2023-11-01T06:02:27.893Z",
-          "name": "Mr. Terrence Fritsch",
-          "username": "Alexys_Cummerata24",
-          "password": "password 18",
-          "mobile": "221-998-3974",
-          "email": "Chanel_Lindgren30@gmail.com",
-          "id": 18
-        },
-        {
-          "createdAt": "2023-10-31T10:41:11.588Z",
-          "name": "Glenda Schuster DDS",
-          "username": "Melvina_Bruen77",
-          "password": "password 19",
-          "mobile": "547-921-8722",
-          "email": "Gregg_Funk@yahoo.com",
-          "id": 19
-        },
-        {
-          "createdAt": "2023-10-31T10:53:14.174Z",
-          "name": "Krista Hessel",
-          "username": "Gerson37",
-          "password": "password 20",
-          "mobile": "301-209-2413",
-          "email": "Prince.Prohaska@yahoo.com",
-          "id": 20
-        }
-    ],
-    "payment-addresses": [
-        {
-         "createdAt": "2023-10-31T17:25:01.981Z",
-         "name": "Lucas Cartwright",
-         "mobile": "333-986-1409 x995",
-         "address": "38153 Grady Stream",
-         "district": "Hilarioville",
-         "state": "North Dakota",
-         "pincode": "89103",
-         "userId": 1,
-         "id": 1
-        },
-        {
-         "createdAt": "2023-10-31T13:15:50.153Z",
-         "name": "Terry Hodkiewicz",
-         "mobile": "512-565-4466 x657",
-         "address": "52575 Prohaska Freeway",
-         "district": "East Karleyton",
-         "state": "Maryland",
-         "pincode": "54759",
-         "userId": 2,
-         "id": 2
-        },
-        {
-         "createdAt": "2023-10-31T11:30:38.559Z",
-         "name": "Arlene Lesch PhD",
-         "mobile": "540-752-9761",
-         "address": "5980 Nick Lights",
-         "district": "Sigridland",
-         "state": "Connecticut",
-         "pincode": "13901-7322",
-         "userId": 3,
-         "id": 3
-        },
-        {
-         "createdAt": "2023-10-31T16:20:25.425Z",
-         "name": "Jermaine Schaefer",
-         "mobile": "1-628-661-0766 x080",
-         "address": "2472 Murazik Oval",
-         "district": "West Martabury",
-         "state": "New York",
-         "pincode": "71081",
-         "userId": 4,
-         "id": 4
-        },
-        {
-         "createdAt": "2023-10-31T06:29:00.065Z",
-         "name": "Ms. Mona Dare PhD",
-         "mobile": "941.723.5601",
-         "address": "2949 Lyric Cliffs",
-         "district": "Port Kolbyton",
-         "state": "Montana",
-         "pincode": "84760-8582",
-         "userId": 5,
-         "id": 5
-        },
-        {
-         "createdAt": "2023-10-31T12:45:57.215Z",
-         "name": "Keith Cartwright",
-         "mobile": "219.888.0675 x23799",
-         "address": "7152 McKenzie Dam",
-         "district": "Raynorcester",
-         "state": "New Hampshire",
-         "pincode": "94312",
-         "userId": 6,
-         "id": 6
-        },
-        {
-         "createdAt": "2023-10-31T22:01:55.919Z",
-         "name": "Ms. Lena Grady",
-         "mobile": "512.850.4659",
-         "address": "3582 Hipolito Causeway",
-         "district": "New Jerelboro",
-         "state": "Nebraska",
-         "pincode": "17357",
-         "userId": 7,
-         "id": 7
-        },
-        {
-         "createdAt": "2023-10-31T17:22:06.719Z",
-         "name": "Jackie Murazik DDS",
-         "mobile": "601.780.0789 x97337",
-         "address": "4924 Dickinson Terrace",
-         "district": "East Orange",
-         "state": "Kentucky",
-         "pincode": "08020-5704",
-         "userId": 8,
-         "id": 8
-        },
-        {
-         "createdAt": "2023-10-31T13:27:02.614Z",
-         "name": "Jo Aufderhar",
-         "mobile": "672-458-8518 x496",
-         "address": "37178 Madeline Expressway",
-         "district": "New Sid",
-         "state": "Delaware",
-         "pincode": "04700",
-         "userId": 9,
-         "id": 9
-        },
-        {
-         "createdAt": "2023-10-31T10:51:47.367Z",
-         "name": "Guadalupe Hand",
-         "mobile": "224-901-7751 x4066",
-         "address": "756 Clemens Manor",
-         "district": "Fort Rylanshire",
-         "state": "Illinois",
-         "pincode": "99441",
-         "userId": 10,
-         "id": 10
-        },
-        {
-         "createdAt": "2023-11-01T02:29:55.226Z",
-         "name": "Carole Rath",
-         "mobile": "1-835-648-0965 x2335",
-         "address": "143 Savanah Row",
-         "district": "Hacienda Heights",
-         "state": "Illinois",
-         "pincode": "58239-7238",
-         "userId": 11,
-         "id": 11
-        },
-        {
-         "createdAt": "2023-11-01T02:08:30.242Z",
-         "name": "Bertha Lueilwitz",
-         "mobile": "(338) 422-2944 x61341",
-         "address": "281 Heller Cliffs",
-         "district": "Verlashire",
-         "state": "New Mexico",
-         "pincode": "59236-4459",
-         "userId": 12,
-         "id": 12
-        },
-        {
-         "createdAt": "2023-10-31T19:14:28.783Z",
-         "name": "Loretta Wolff",
-         "mobile": "663.427.5824",
-         "address": "6411 Lesly Mount",
-         "district": "South Valley",
-         "state": "Idaho",
-         "pincode": "26635",
-         "userId": 13,
-         "id": 13
-        },
-        {
-         "createdAt": "2023-10-31T21:38:55.701Z",
-         "name": "Dianne Kihn",
-         "mobile": "1-569-538-0821 x82327",
-         "address": "939 Lila Mountain",
-         "district": "Jadefurt",
-         "state": "New Hampshire",
-         "pincode": "83545-0414",
-         "userId": 14,
-         "id": 14
-        },
-        {
-         "createdAt": "2023-10-31T05:47:46.611Z",
-         "name": "Horace Hoeger",
-         "mobile": "(354) 310-9176 x63079",
-         "address": "4408 Monahan Street",
-         "district": "Thousand Oaks",
-         "state": "Idaho",
-         "pincode": "92782",
-         "userId": 15,
-         "id": 15
-        },
-        {
-         "createdAt": "2023-10-31T06:53:49.385Z",
-         "name": "Reginald Harvey",
-         "mobile": "318.776.1907 x427",
-         "address": "03125 Mitchel Trail",
-         "district": "Cheyenneland",
-         "state": "Maine",
-         "pincode": "93043-5544",
-         "userId": 16,
-         "id": 16
-        },
-        {
-         "createdAt": "2023-10-31T17:06:56.991Z",
-         "name": "Clifford Conn",
-         "mobile": "(603) 634-7030 x40052",
-         "address": "98935 Bella Villages",
-         "district": "Benfort",
-         "state": "Mississippi",
-         "pincode": "85838-0790",
-         "userId": 17,
-         "id": 17
-        },
-        {
-         "createdAt": "2023-10-31T22:04:55.355Z",
-         "name": "Mrs. Crystal Bogan MD",
-         "mobile": "402-501-1030 x66944",
-         "address": "02474 General Cove",
-         "district": "West Rubie",
-         "state": "Montana",
-         "pincode": "96592-6133",
-         "userId": 18,
-         "id": 18
-        },
-        {
-         "createdAt": "2023-10-31T20:44:23.766Z",
-         "name": "Joann Bergnaum",
-         "mobile": "1-468-762-8881 x25362",
-         "address": "0129 Larson Mountains",
-         "district": "West Mohamedtown",
-         "state": "Nevada",
-         "pincode": "65499-5250",
-         "userId": 19,
-         "id": 19
-        },
-        {
-         "createdAt": "2023-10-31T08:18:37.948Z",
-         "name": "Matt Beahan",
-         "mobile": "1-217-750-3484",
-         "address": "5788 Konopelski View",
-         "district": "Alexisfort",
-         "state": "Kentucky",
-         "pincode": "83154",
-         "userId": 20,
-         "id": 20
-        }
-    ],
-    "categories": [
-        {
-         "createdAt": "2023-11-01T00:29:44.376Z",
-         "name": "women",
-         "image": "https://loremflickr.com/640/480",
-         "id": 1
-        },
-        {
-         "createdAt": "2023-11-01T02:04:33.873Z",
-         "name": "men",
-         "image": "https://loremflickr.com/640/480",
-         "id": 2
-        },
-        {
-         "createdAt": "2023-10-31T08:12:32.896Z",
-         "name": "kids",
-         "image": "https://loremflickr.com/640/480",
-         "id": 3
-        }
-    ],
-    "brands": [
-        {
-         "createdAt": "2023-10-31T19:29:45.353Z",
-         "name": "Lavender",
-         "panel": "https://loremflickr.com/640/480",
-         "id": 1
-        },
-        {
-         "createdAt": "2023-10-31T08:38:10.207Z",
-         "name": "Evera",
-         "panel": "https://loremflickr.com/640/480",
-         "id": 2
-        },
-        {
-         "createdAt": "2023-10-31T19:25:03.809Z",
-         "name": "Kaplias",
-         "panel": "https://loremflickr.com/640/480",
-         "id": 3
-        },
-        {
-         "createdAt": "2023-10-31T13:41:45.110Z",
-         "name": "Droplets",
-         "panel": "https://loremflickr.com/640/480",
-         "id": 4
-        },
-        {
-         "createdAt": "2023-11-01T02:09:23.161Z",
-         "name": "Freshfaced",
-         "panel": "https://loremflickr.com/640/480",
-         "id": 5
-        }
-    ],
-    "product-groups": [
-        {
-         "createdAt": "2023-10-31T13:11:49.388Z",
-         "name": "Facial",
-         "image": "https://loremflickr.com/640/480",
-         "id": 1
-        },
-        {
-         "createdAt": "2023-10-31T15:01:37.102Z",
-         "name": "Hair",
-         "image": "https://loremflickr.com/640/480",
-         "id": 2
-        },
-        {
-         "createdAt": "2023-11-01T01:59:38.498Z",
-         "name": "Body",
-         "image": "https://loremflickr.com/640/480",
-         "id": 3
-        }
-    ],
-    "products": [
-        {
-         "createdAt": "2023-11-01T01:02:25.950Z",
-         "name": "Table",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "The Football Is Good For Training And Recreational Purposes",
-         "price": "price 1",
-         "ingredient": "ingredient 1",
-         "detail": "detail 1",
-         "howToUse": "howToUse 1",
-         "description": "Oriental",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 4,
-         "productGroupId": 1,
-         "categoryId": 1,
-         "id": 1
-        },
-        {
-         "createdAt": "2023-10-31T21:08:07.907Z",
-         "name": "Hat",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-         "price": "price 2",
-         "ingredient": "ingredient 2",
-         "detail": "detail 2",
-         "howToUse": "howToUse 2",
-         "description": "Bespoke",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 5,
-         "productGroupId": 2,
-         "categoryId": 2,
-         "id": 2
-        },
-        {
-         "createdAt": "2023-10-31T15:54:29.521Z",
-         "name": "Bike",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-         "price": "price 3",
-         "ingredient": "ingredient 3",
-         "detail": "detail 3",
-         "howToUse": "howToUse 3",
-         "description": "Awesome",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 1,
-         "productGroupId": 1,
-         "categoryId": 1,
-         "id": 3
-        },
-        {
-         "createdAt": "2023-10-31T12:03:00.155Z",
-         "name": "Towels",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-         "price": "price 4",
-         "ingredient": "ingredient 4",
-         "detail": "detail 4",
-         "howToUse": "howToUse 4",
-         "description": "Ergonomic",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 3,
-         "productGroupId": 3,
-         "categoryId": 3,
-         "id": 4
-        },
-        {
-         "createdAt": "2023-11-01T05:17:40.880Z",
-         "name": "Keyboard",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-         "price": "price 5",
-         "ingredient": "ingredient 5",
-         "detail": "detail 5",
-         "howToUse": "howToUse 5",
-         "description": "Generic",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 2,
-         "productGroupId": 1,
-         "categoryId": 2,
-         "id": 5
-        },
-        {
-         "createdAt": "2023-10-31T18:04:59.872Z",
-         "name": "Ball",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-         "price": "price 6",
-         "ingredient": "ingredient 6",
-         "detail": "detail 6",
-         "howToUse": "howToUse 6",
-         "description": "Ergonomic",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 3,
-         "productGroupId": 3,
-         "categoryId": 3,
-         "id": 6
-        },
-        {
-         "createdAt": "2023-10-31T12:37:10.238Z",
-         "name": "Chicken",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-         "price": "price 7",
-         "ingredient": "ingredient 7",
-         "detail": "detail 7",
-         "howToUse": "howToUse 7",
-         "description": "Generic",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 3,
-         "productGroupId": 3,
-         "categoryId": 3,
-         "id": 7
-        },
-        {
-         "createdAt": "2023-10-31T11:25:51.202Z",
-         "name": "Pants",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-         "price": "price 8",
-         "ingredient": "ingredient 8",
-         "detail": "detail 8",
-         "howToUse": "howToUse 8",
-         "description": "Rustic",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 2,
-         "productGroupId": 2,
-         "categoryId": 2,
-         "id": 8
-        },
-        {
-         "createdAt": "2023-10-31T15:02:36.630Z",
-         "name": "Ball",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-         "price": "price 9",
-         "ingredient": "ingredient 9",
-         "detail": "detail 9",
-         "howToUse": "howToUse 9",
-         "description": "Luxurious",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 2,
-         "productGroupId": 2,
-         "categoryId": 2,
-         "id": 9
-        },
-        {
-         "createdAt": "2023-10-31T12:15:16.834Z",
-         "name": "Fish",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-         "price": "price 10",
-         "ingredient": "ingredient 10",
-         "detail": "detail 10",
-         "howToUse": "howToUse 10",
-         "description": "Oriental",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 2,
-         "productGroupId": 2,
-         "categoryId": 2,
-         "id": 10
-        },
-        {
-         "createdAt": "2023-10-31T10:53:43.212Z",
-         "name": "Shirt",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-         "price": "price 11",
-         "ingredient": "ingredient 11",
-         "detail": "detail 11",
-         "howToUse": "howToUse 11",
-         "description": "Modern",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 2,
-         "productGroupId": 2,
-         "categoryId": 2,
-         "id": 11
-        },
-        {
-         "createdAt": "2023-11-01T04:12:08.755Z",
-         "name": "Chips",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-         "price": "price 12",
-         "ingredient": "ingredient 12",
-         "detail": "detail 12",
-         "howToUse": "howToUse 12",
-         "description": "Bespoke",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 1,
-         "productGroupId": 1,
-         "categoryId": 1,
-         "id": 12
-        },
-        {
-         "createdAt": "2023-10-31T12:52:38.316Z",
-         "name": "Shoes",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-         "price": "price 13",
-         "ingredient": "ingredient 13",
-         "detail": "detail 13",
-         "howToUse": "howToUse 13",
-         "description": "Rustic",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 1,
-         "productGroupId": 1,
-         "categoryId": 1,
-         "id": 13
-        },
-        {
-         "createdAt": "2023-11-01T04:52:33.334Z",
-         "name": "Salad",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-         "price": "price 14",
-         "ingredient": "ingredient 14",
-         "detail": "detail 14",
-         "howToUse": "howToUse 14",
-         "description": "Licensed",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 1,
-         "productGroupId": 1,
-         "categoryId": 1,
-         "id": 14
-        },
-        {
-         "createdAt": "2023-10-31T10:05:48.362Z",
-         "name": "Computer",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-         "price": "price 15",
-         "ingredient": "ingredient 15",
-         "detail": "detail 15",
-         "howToUse": "howToUse 15",
-         "description": "Practical",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 4,
-         "productGroupId": 1,
-         "categoryId": 1,
-         "id": 15
-        },
-        {
-         "createdAt": "2023-10-31T23:42:45.284Z",
-         "name": "Mouse",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-         "price": "price 16",
-         "ingredient": "ingredient 16",
-         "detail": "detail 16",
-         "howToUse": "howToUse 16",
-         "description": "Handcrafted",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 4,
-         "productGroupId": 1,
-         "categoryId": 1,
-         "id": 16
-        },
-        {
-         "createdAt": "2023-10-31T09:24:27.309Z",
-         "name": "Towels",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-         "price": "price 17",
-         "ingredient": "ingredient 17",
-         "detail": "detail 17",
-         "howToUse": "howToUse 17",
-         "description": "Rustic",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 5,
-         "productGroupId": 1,
-         "categoryId": 1,
-         "id": 17
-        },
-        {
-         "createdAt": "2023-11-01T03:02:06.300Z",
-         "name": "Bacon",
-         "avatar": "https://loremflickr.com/640/480",
-         "introduction": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-         "price": "price 18",
-         "ingredient": "ingredient 18",
-         "detail": "detail 18",
-         "howToUse": "howToUse 18",
-         "description": "Handcrafted",
-         "productImages": ["https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480", "https://loremflickr.com/640/480"],
-         "brandId": 5,
-         "productGroupId": 1,
-         "categoryId": 1,
-         "id": 18
-        }
-    ]
+  "users": [
+    {
+      "email": "Alice.Christiansen71@yahoo.com",
+      "password": "$2a$10$ZfzigLGNe1QMAoIUAn5ajuJcKbfJJE63OtoFJEgcXq6GoBRym8iuO",
+      "createdAt": "2023-10-31T12:16:51.552Z",
+      "name": "Dr. Lela Auer",
+      "username": "Javier6",
+      "mobile": "823-905-1699",
+      "id": 1
+    }
+  ],
+  "payment-addresses": [
+    {
+      "createdAt": "2023-10-31T17:25:01.981Z",
+      "name": "Lucas Cartwright",
+      "mobile": "333-986-1409 x995",
+      "address": "38153 Grady Stream",
+      "district": "Hilarioville",
+      "state": "North Dakota",
+      "pincode": "89103",
+      "userId": 1,
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "createdAt": "2023-11-01T00:29:44.376Z",
+      "name": "women",
+      "image": "https://loremflickr.com/640/480",
+      "id": 1
+    },
+    {
+      "createdAt": "2023-11-01T02:04:33.873Z",
+      "name": "men",
+      "image": "https://loremflickr.com/640/480",
+      "id": 2
+    },
+    {
+      "createdAt": "2023-10-31T08:12:32.896Z",
+      "name": "kids",
+      "image": "https://loremflickr.com/640/480",
+      "id": 3
+    }
+  ],
+  "brands": [
+    {
+      "createdAt": "2023-10-31T19:29:45.353Z",
+      "name": "Lavender",
+      "panel": "https://loremflickr.com/640/480",
+      "id": 1
+    },
+    {
+      "createdAt": "2023-10-31T08:38:10.207Z",
+      "name": "Evera",
+      "panel": "https://loremflickr.com/640/480",
+      "id": 2
+    },
+    {
+      "createdAt": "2023-10-31T19:25:03.809Z",
+      "name": "Kaplias",
+      "panel": "https://loremflickr.com/640/480",
+      "id": 3
+    },
+    {
+      "createdAt": "2023-10-31T13:41:45.110Z",
+      "name": "Droplets",
+      "panel": "https://loremflickr.com/640/480",
+      "id": 4
+    },
+    {
+      "createdAt": "2023-11-01T02:09:23.161Z",
+      "name": "Freshfaced",
+      "panel": "https://loremflickr.com/640/480",
+      "id": 5
+    }
+  ],
+  "product-groups": [
+    {
+      "createdAt": "2023-10-31T13:11:49.388Z",
+      "name": "Facial",
+      "image": "https://loremflickr.com/640/480",
+      "id": 1
+    },
+    {
+      "createdAt": "2023-10-31T15:01:37.102Z",
+      "name": "Hair",
+      "image": "https://loremflickr.com/640/480",
+      "id": 2
+    },
+    {
+      "createdAt": "2023-11-01T01:59:38.498Z",
+      "name": "Body",
+      "image": "https://loremflickr.com/640/480",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "name": "Table",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "price": "price 1",
+      "ingredient": "ingredient 1",
+      "detail": "detail 1",
+      "howToUse": "howToUse 1",
+      "description": "Oriental",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 4,
+      "productGroupId": 1,
+      "categoryId": [
+        1
+      ],
+      "id": 1
+    },
+    {
+      "createdAt": "2023-10-31T21:08:07.907Z",
+      "name": "Hat",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "price 2",
+      "ingredient": "ingredient 2",
+      "detail": "detail 2",
+      "howToUse": "howToUse 2",
+      "description": "Bespoke",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 5,
+      "productGroupId": 2,
+      "categoryId": [
+        2
+      ],
+      "id": 2
+    },
+    {
+      "createdAt": "2023-10-31T15:54:29.521Z",
+      "name": "Bike",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "price 3",
+      "ingredient": "ingredient 3",
+      "detail": "detail 3",
+      "howToUse": "howToUse 3",
+      "description": "Awesome",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 1,
+      "productGroupId": 1,
+      "categoryId": [
+        3
+      ],
+      "id": 3
+    },
+    {
+      "createdAt": "2023-10-31T12:03:00.155Z",
+      "name": "Towels",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "price 4",
+      "ingredient": "ingredient 4",
+      "detail": "detail 4",
+      "howToUse": "howToUse 4",
+      "description": "Ergonomic",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 3,
+      "productGroupId": 3,
+      "categoryId": [
+        1,
+        2
+      ],
+      "id": 4
+    },
+    {
+      "createdAt": "2023-11-01T05:17:40.880Z",
+      "name": "Keyboard",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "price 5",
+      "ingredient": "ingredient 5",
+      "detail": "detail 5",
+      "howToUse": "howToUse 5",
+      "description": "Generic",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 2,
+      "productGroupId": 1,
+      "categoryId": [
+        1,
+        3
+      ],
+      "id": 5
+    },
+    {
+      "createdAt": "2023-10-31T18:04:59.872Z",
+      "name": "Ball",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "price 6",
+      "ingredient": "ingredient 6",
+      "detail": "detail 6",
+      "howToUse": "howToUse 6",
+      "description": "Ergonomic",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 3,
+      "productGroupId": [
+        2,
+        3
+      ],
+      "categoryId": 3,
+      "id": 6
+    },
+    {
+      "createdAt": "2023-10-31T12:37:10.238Z",
+      "name": "Chicken",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "price 7",
+      "ingredient": "ingredient 7",
+      "detail": "detail 7",
+      "howToUse": "howToUse 7",
+      "description": "Generic",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 3,
+      "productGroupId": 3,
+      "categoryId": [
+        1,
+        2,
+        3
+      ],
+      "id": 7
+    },
+    {
+      "createdAt": "2023-10-31T11:25:51.202Z",
+      "name": "Pants",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "price 8",
+      "ingredient": "ingredient 8",
+      "detail": "detail 8",
+      "howToUse": "howToUse 8",
+      "description": "Rustic",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 2,
+      "productGroupId": 2,
+      "categoryId": [
+        2
+      ],
+      "id": 8
+    },
+    {
+      "createdAt": "2023-10-31T15:02:36.630Z",
+      "name": "Ball",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "price": "price 9",
+      "ingredient": "ingredient 9",
+      "detail": "detail 9",
+      "howToUse": "howToUse 9",
+      "description": "Luxurious",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 2,
+      "productGroupId": 2,
+      "categoryId": [
+        1
+      ],
+      "id": 9
+    },
+    {
+      "createdAt": "2023-10-31T12:15:16.834Z",
+      "name": "Fish",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "price": "price 10",
+      "ingredient": "ingredient 10",
+      "detail": "detail 10",
+      "howToUse": "howToUse 10",
+      "description": "Oriental",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 2,
+      "productGroupId": 2,
+      "categoryId": [
+        3
+      ],
+      "id": 10
+    },
+    {
+      "createdAt": "2023-10-31T10:53:43.212Z",
+      "name": "Shirt",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": "price 11",
+      "ingredient": "ingredient 11",
+      "detail": "detail 11",
+      "howToUse": "howToUse 11",
+      "description": "Modern",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 2,
+      "productGroupId": 2,
+      "categoryId": [
+        1,
+        2
+      ],
+      "id": 11
+    },
+    {
+      "createdAt": "2023-11-01T04:12:08.755Z",
+      "name": "Chips",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "price": "price 12",
+      "ingredient": "ingredient 12",
+      "detail": "detail 12",
+      "howToUse": "howToUse 12",
+      "description": "Bespoke",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 1,
+      "productGroupId": 1,
+      "categoryId": [
+        2,
+        3
+      ],
+      "id": 12
+    },
+    {
+      "createdAt": "2023-10-31T12:52:38.316Z",
+      "name": "Shoes",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": "price 13",
+      "ingredient": "ingredient 13",
+      "detail": "detail 13",
+      "howToUse": "howToUse 13",
+      "description": "Rustic",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 1,
+      "productGroupId": 1,
+      "categoryId": [
+        1,
+        2,
+        3
+      ],
+      "id": 13
+    },
+    {
+      "createdAt": "2023-11-01T04:52:33.334Z",
+      "name": "Salad",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "price 14",
+      "ingredient": "ingredient 14",
+      "detail": "detail 14",
+      "howToUse": "howToUse 14",
+      "description": "Licensed",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 1,
+      "productGroupId": 1,
+      "categoryId": [
+        1
+      ],
+      "id": 14
+    },
+    {
+      "createdAt": "2023-10-31T10:05:48.362Z",
+      "name": "Computer",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "price": "price 15",
+      "ingredient": "ingredient 15",
+      "detail": "detail 15",
+      "howToUse": "howToUse 15",
+      "description": "Practical",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 4,
+      "productGroupId": 1,
+      "categoryId": [
+        2
+      ],
+      "id": 15
+    },
+    {
+      "createdAt": "2023-10-31T23:42:45.284Z",
+      "name": "Mouse",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "price": "price 16",
+      "ingredient": "ingredient 16",
+      "detail": "detail 16",
+      "howToUse": "howToUse 16",
+      "description": "Handcrafted",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 4,
+      "productGroupId": 1,
+      "categoryId": [
+        3
+      ],
+      "id": 16
+    },
+    {
+      "createdAt": "2023-10-31T09:24:27.309Z",
+      "name": "Towels",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "price": "price 17",
+      "ingredient": "ingredient 17",
+      "detail": "detail 17",
+      "howToUse": "howToUse 17",
+      "description": "Rustic",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 5,
+      "productGroupId": 1,
+      "categoryId": [
+        1,
+        2
+      ],
+      "id": 17
+    },
+    {
+      "createdAt": "2023-11-01T03:02:06.300Z",
+      "name": "Bacon",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "price": "price 18",
+      "ingredient": "ingredient 18",
+      "detail": "detail 18",
+      "howToUse": "howToUse 18",
+      "description": "Handcrafted",
+      "productImages": [
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480",
+        "https://loremflickr.com/640/480"
+      ],
+      "brandId": 5,
+      "productGroupId": 1,
+      "categoryId": [
+        2,
+        3
+      ],
+      "id": 18
+    }
+  ]
 }

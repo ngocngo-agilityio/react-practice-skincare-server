@@ -1,31 +1,33 @@
 // See https://github.com/typicode/json-server#module
-const jsonServer = require('json-server')
+const jsonServer = require("json-server");
 
-const server = jsonServer.create()
+const app = jsonServer.create();
+const auth = require("json-server-auth");
 
-// Uncomment to allow write operations
-// const fs = require('fs')
-// const path = require('path')
-// const filePath = path.join('db.json')
-// const data = fs.readFileSync(filePath, "utf-8");
-// const db = JSON.parse(data);
-// const router = jsonServer.router(db)
+const router = jsonServer.router("db.json");
+app.db = router.db;
+const rules = auth.rewriter({
+  // Permission rules
+  users: 600,
+  products: 640,
+  brands: 640,
+  "payment-addresses": 640,
+  "product-groups": 640,
+  categories: 640,
+});
 
-// Comment out to allow write operations
-const router = jsonServer.router('db.json')
+// You must apply the middlewares in the following order
+app.use(rules);
 
-const middlewares = jsonServer.defaults()
+const middlewares = jsonServer.defaults();
+app.use("/", middlewares);
 
-server.use(middlewares)
-// Add this before server.use(router)
-server.use(jsonServer.rewriter({
-    '/api/*': '/$1',
-    '/blog/:resource/:id/show': '/:resource/:id'
-}))
-server.use(router)
-server.listen(3000, () => {
-    console.log('JSON Server is running')
-})
+app.use(auth);
+app.use(router);
+
+app.listen(3000, () => {
+  console.log("JSON Server is running");
+});
 
 // Export the Server API
-module.exports = server
+module.exports = app;
