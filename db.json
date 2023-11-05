@@ -97,429 +97,402 @@
   ],
   "products": [
     {
+      "id": 1,
+      "name": "Kiehls Nourishing Olive Fruit Oil Conditioner",
+      "price": 3699,
+      "description": "A lightweight conditioner for dry hair.\r\nEnriched with Olive Fruit and Avocado Oils, this lightweight conditioner nourishes hair for a shiny and healthy appearance. Nurture and moisturize with our lightweight conditioner for dry hair. Moisturizes and conditions dry hair\r\nHelps detangle and improve hair’s manageability and suppleness\r\nLightweight formula rinses easily and helps promote shine\r\nFor under-nourished and dry hair\r\nOlive Fruit Oil is obtained by cold pressing ripe olives. This extra virgin oil contains fatty acids and Vitamin E. Within our formulas, it is known to nourish and moisturize skin and hair.\r\n",
+      "productGroupId": 2,
+      "brandId": 2,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892768/Products/pacgebwvfxi8gehwsrcq.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892770/Products/qmib6wcsg9zdopbz0t1b.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892771/Products/ji5m11d2lgdlf4h3uw8r.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892773/Products/pedabhqfzgpiewtov7rf.jpg"
+      ],
       "createdAt": "2023-11-01T01:02:25.950Z",
-      "name": "Table",
       "avatar": "https://loremflickr.com/640/480",
       "introduction": "The Football Is Good For Training And Recreational Purposes",
-      "price": "price 1",
-      "ingredient": "ingredient 1",
-      "detail": "detail 1",
-      "howToUse": "howToUse 1",
-      "description": "Oriental",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 4,
-      "productGroupId": 1,
-      "categoryId": [
-        1
-      ],
-      "id": 1
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate, Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n \n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin's clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
     },
     {
-      "createdAt": "2023-10-31T21:08:07.907Z",
-      "name": "Hat",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "price": "price 2",
-      "ingredient": "ingredient 2",
-      "detail": "detail 2",
-      "howToUse": "howToUse 2",
-      "description": "Bespoke",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 5,
+      "id": 2,
+      "name": "Requill Babassu Anti-Frizz & Smoothening Hair Conditioner",
+      "price": 1699,
+      "description": "For frizzy hair, pH 4.5 - 5.5, safety tested, clinically proven ingredients, paraben freeA conditioner that retains moisture and tames the frizz.\r\nIf your hair fails to hydrate no matter what you try to put into them. Even water cannot penetrate and tends to bead off. Chances are high, you have low porosity hair. Result - Frizzy hair. Heat treatment may appear to help but it is not the solution. Nor are protein-based conditioners. Frizzy hair needs conditioning agents that are lightweight, do not evaporate,  and lock in the moisture on the hair strand. Low porosity frizzy hair needs hydration that stays. ",
       "productGroupId": 2,
-      "categoryId": [
-        2
+      "brandId": 4,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686895547/Products/jgbc6w48or8augg6xrlp.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686895552/Products/xp9x7trmurflybdycoyx.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686895555/Products/zdiaufyfnrlnbbjj6zs9.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686895558/Products/w3lsz6gecmvdchfdc5p5.webp"
       ],
-      "id": 2
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
     },
     {
-      "createdAt": "2023-10-31T15:54:29.521Z",
-      "name": "Bike",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "price": "price 3",
-      "ingredient": "ingredient 3",
-      "detail": "detail 3",
-      "howToUse": "howToUse 3",
-      "description": "Awesome",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 1,
-      "productGroupId": 1,
-      "categoryId": [
-        3
-      ],
-      "id": 3
-    },
-    {
-      "createdAt": "2023-10-31T12:03:00.155Z",
-      "name": "Towels",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": "price 4",
-      "ingredient": "ingredient 4",
-      "detail": "detail 4",
-      "howToUse": "howToUse 4",
-      "description": "Ergonomic",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 3,
-      "productGroupId": 3,
-      "categoryId": [
-        1,
-        2
-      ],
-      "id": 4
-    },
-    {
-      "createdAt": "2023-11-01T05:17:40.880Z",
-      "name": "Keyboard",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "price": "price 5",
-      "ingredient": "ingredient 5",
-      "detail": "detail 5",
-      "howToUse": "howToUse 5",
-      "description": "Generic",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
+      "id": 3,
+      "name": "Kiehls Amino Acid Shampoo",
+      "price": 2899,
+      "description": "A mild shampoo with Coconut Oil and Amino Acids that cleanses and softens hair.\r\n\r\nThis gentle shampoo with Coconut Oil and Amino Acids effectively helps to add body and fullness. Cleanse your hair with a mild shampoo that helps soften and add shine.\r\n\r\nWhen chemically united with fatty alcohol or fatty acid, Amino Acids have cleansing properties. Within our formulas, they are known to help retain moisture.\r\n\r\nCoconut Oil is derived from the Coconut Tree, known as the “tree of life.” Used in Ayurvedic medicine for over 4,000 years, Coconut Oil is rich in fatty acids and known to nourish, hydrate and soften.\r\n",
+      "productGroupId": 2,
       "brandId": 2,
-      "productGroupId": 1,
-      "categoryId": [
-        1,
-        3
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892615/Products/n8prtza6halacodeazny.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892617/Products/mhl1ow65jevlahaheymi.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892618/Products/fuhxmbtkh6noccfahtul.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892619/Products/nqz94esfohgirj40emeg.jpg"
       ],
-      "id": 5
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
     },
     {
-      "createdAt": "2023-10-31T18:04:59.872Z",
-      "name": "Ball",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": "price 6",
-      "ingredient": "ingredient 6",
-      "detail": "detail 6",
-      "howToUse": "howToUse 6",
-      "description": "Ergonomic",
+      "id": 4,
+      "name": "Requill Murumuru Damage Repair Hair Conditioner",
+      "price": 1899,
+      "description": "For all hair types, pH 4.5 - 5.5, safety tested, clinically proven ingredients, paraben free\r\nOur hair change the way we look and more importantly how we feel. Dry, damaged, split ended hair is nobody’s dream. Imagine how it feels to run your fingers through hair that is healthy, voluminous, shiny and well defined. That's a dream you can live. Whether you have normal, straight or curly hair, your hair deserves deep conditioning that does not cause any silicone build-up or does not make your hair frizzy after a few uses.\r\n",
+      "productGroupId": 2,
+      "brandId": 4,
       "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686896676/Products/pylh5x9vqotqhn79veoi.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686896678/Products/o9qgcs1bju6vzz50adaz.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686896680/Products/yah6e8yxcvorg6ubhake.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686896681/Products/q2jhioj7wu1y0synv811.webp"
       ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 5,
+      "name": "Ever Eden Kids Multi-Vitamin Shampoo & Conditioner",
+      "price": 3199,
+      "description": "HEALTHY HAIR STARTS WITH A HEALTHY SCALP\r\n\r\nAll-in-one formula with MegaVitamin Complex™ creates a healthy foundation for kids’ scalp and hair. Contains both biotin and amino acids to strengthen and condition hair while maiden hair fern and wild thyme extracts provide a gentle, yet long lasting cleansing effect. Gluten-free. \r\n\r\nFormulated for children ages 4+, but can be used by the whole family. Choose between our three 100% natural scents: Cool Peach, Fresh Pomelo, and Melon Juice. 10.1 fl. oz. / 300 ml.\r\n",
+      "productGroupId": 2,
+      "brandId": 1,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900143/Products/dkr6uhuadmp2sy4d7bwm.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900145/Products/qu1zl17scnamm3ysfird.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900148/Products/xpnvllfsds70pewuss4h.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900150/Products/q9nvhqfbkfayvphx1gs5.jpg"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 6,
+      "name": "FACE BRIGHTENING KIT",
+      "price": 3499,
+      "description": "It helps to efficiently clear dark patches, dark circles, blemishes, and makes you look all glammed up.\r\nHere’s the Best Combo that helps you get an Even Toned, Blemish Free, Brighter & Glowing Skin. With the regular use of the “FACE BRIGHTENING KIT”, you can experience that fresh, young and vivacious look you’ve always wanted. It helps to efficiently clear dark patches, dark circles, blemishes, and makes you look all glammed up. Skin brighteningReduces open poresRemoves blackheads and whiteheadsImparts a clean, clear, fresh and young glowing skinFades dark circles\r\n",
+      "productGroupId": 1,
+      "brandId": 5,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892163/Products/pfcwnumm20rk3u98hmjm.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892164/Products/xsnrtftgx2wtrc3ezwaq.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892166/Products/lft2qofgiqf6o5qsbxil.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892167/Products/ubgbc14472bjpws4dehz.webp"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 7,
+      "name": "Tinted Moisturiser",
+      "price": 2799,
+      "description": "Revolutionary pro-melanin care formula with the right balance of vitamins, prebiotics and natural ingredients that combine to deliver to the specific needs of all brown skin\r\nEasy blend formula that gives an even tone, moisturises, blocks upto 97% UV rays and tackles hyperpigmentation\r\nLight-feel product that works well in Indian weather conditions and suits all skin types\r\nAvailable in a 50 ml pack.\r\n\r\nVitamins with their potent antioxidant action help keep hyperpigmentation at bay. Prebiotics derived from nature promote good bacteria to keep skin healthy. Hibiscus adds a nourishing touch to leave skin soft and supple.\r\n",
+      "productGroupId": 1,
       "brandId": 3,
-      "productGroupId": [
-        2,
-        3
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892066/Products/t23gjtlyamroawkrntsa.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892067/Products/gwmm2kzxemc0l4fies8x.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892069/Products/pnbcqvw87gik10zuk44l.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892070/Products/otawt8zapjigjlnqmr9e.webp"
       ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 8,
+      "name": "Gotu Kola Dew",
+      "price": 2499,
+      "description": "Revitalizing toner serum with Gotu Kola and Niacinamide\r\n\r\nGotu Kola Dew is a fast-absorbing toner serum infused with the invigorating properties of gotu kola and niacinamide. Its multitasking formulation is clinically proven to leave you with bright and clear skin by providing an instant boost of hydration and reducing the appearance of pores (1).\r\n\r\nGotu Kola is known to aid in collagen production and minimize premature signs of aging like dull skin, dark spots, and fine lines. It is packed with antioxidants and helps the skin retain moisture.\r\n\r\nNiacinamide helps in regulating melanin production to give skin an even tone. This versatile ingredient is known to regulate oil produced from the sebaceous glands and to help restore the skin’s natural barrier against moisture loss and dehydration.\r\n\r\nSuitable for all skin types including sensitive skin.\r\n",
+      "productGroupId": 1,
+      "brandId": 3,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891870/Products/a4508jlzobr5gg5qunk3.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891872/Products/ni60reqbovasgytcjjpf.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891874/Products/fowmkaskpxzhb14vxqlh.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891875/Products/hkk2ltizkhcaxbsnnjag.jpg"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 9,
+      "name": "Ashwagandha Bounce",
+      "price": 2699,
+      "description": "Rejuvenating moisturiser with ashwagandha and sodium hyaluronate\r\n\r\nAshwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\r\n\r\n\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week(1).\r\n\r\nSodium hyaluronate (soh·dee·uhm/ hye.a.loo.roe.nate), is a powerful compound that stores moisture in the skin for long-lasting hydration. It is excellent in controlling the effects of dryness to give you balanced and dewy skin. We use a blend of low and high-molecular-weight Sodium HA to give you instant moisturization as well as deeper hydration over time.",
+      "productGroupId": 1,
+      "brandId": 3,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891737/Products/ru3arrt73nqkmcr1ewfz.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891739/Products/tloyivsfbeqqoaskemo8.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891741/Products/zmoi9jdn5tkjlnu4oosd.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891747/Products/qecjvxzkmevlzuxeobvf.webp"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 10,
+      "name": "Kiehls Avocado Eye Cream",
+      "price": 3299,
+      "description": "Our #1 hydrating eye cream delivers a pop of energy for tired, fatigued eyes. Formulated with Avocado Oil, Beta-Carotene, and Sodium & Copper PCA, this brightening eye cream immediately improves the look and feel of under eye texture and dry fine lines through all day hydration.\r\n\r\nParaben-free, fragrance-free, silicone-free, mineral oil-free, and synthetic dye-free.\r\n\r\nDerived from the beloved Avocado Fruit, Avocado Oil has a rich, emollient texture and contains a balance of lipids including omega essential fatty acids. Within our formula, the use of renewable Avocado Oil is known to moisturize, nourish and soften skin.\r\n",
+      "productGroupId": 1,
+      "brandId": 2,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892252/Products/kfyan4h1joyyfutnhwql.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892254/Products/mk3prep7rhkxrc8ubc4s.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892256/Products/tkuskz0sonhyajkdssps.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892257/Products/zpvftfeb11tjbswradyc.jpg"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 11,
+      "name": "Kiehls Facial Fuel Energizing Face Wash",
+      "price": 3699,
+      "description": "Our refreshing face wash for men effectively removes debris, dirt and oil with a non-drying cleanse. With Caffeine, Menthol and Vitamin E, this men’s facial cleanser is an energizing way to start the day.\r\n\r\nParaben-free and Alcohol-free.\r\n\r\nCaffeine is an alkaloid known for its stimulating properties. In our formulas, it helps energize and reduce dullness.\r\n\r\nMenthol is an invigorating ingredient known to provide an instant refreshing feeling to skin.\r\n",
+      "productGroupId": 1,
+      "brandId": 2,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892373/Products/wam3qzvngvmsqckqfywr.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892375/Products/cknuf56lxvciurzwwku4.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892376/Products/tfp31xy4oyyeskder9rz.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892379/Products/fm3ztfhmiaq7qltfyvie.jpg"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 12,
+      "name": "Turmeric Shield",
+      "price": 2899,
+      "description": "Soothing sunscreen serum with Turmeric and Ceramides\r\n\r\nTurmeric Shield SPF 40 PA+++ is a lightweight sunscreen serum packed with the healing properties of turmeric and ceramides. Its fast-absorbing, fragrance-free formulation protects against skin damage caused by UVA/UVB rays due to sun exposure and is clinically tested to leave your skin hydrated, healthy and glowing.\r\n\r\nTurmeric is a potent ingredient known for its antioxidant properties that help to soothe irritable skin. It is also known to revive dry and dull skin by protecting it against harsh free radicals and environmental stressors like dirt, dust and pollution, and giving it a healthy and youthful glow.\r\n\r\nCeramides (cer.am.ides) help to replenish the skin’s natural lipid levels to trap moisture in the skin. By doing so, they protect the skin’s barrier against damage caused by harmful external elements.\r\n\r\nTurmeric Shield SPF 40 PA+++ broad-spectrum sunscreen offers protection against UVA and UVB rays. The UV filters in our sunscreen are also known to offer protection from blue light.\r\n",
+      "productGroupId": 1,
+      "brandId": 3,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891987/Products/yofhhccmzeuauwxt6icf.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891989/Products/pqwdetn15flemaet3poo.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891990/Products/u7vok3nrqigostk9wqrr.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891993/Products/wsmqjb6n8jdcqxbqjpmp.jpg"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 13,
+      "name": "Requill Sheer Zinc Tinted Mineral Sunscreen SPF 50 PA+++",
+      "price": 1599,
+      "description": "For all skin types, anhydrous formulation, safety tested, clinically proven ingredients, paraben free. They told you to wear sunscreen and why it was the most important thing. The best anti-ageing product and You tried it.  Honestly and religiously. Yet you couldn't continue because it irritated your sensitive skin. Re’equil Sheer Zinc Sunscreen is designed for all skin types, including sensitive skin. Mineral sun protection with a perfect matte texture and universal tint. \r\n",
+      "productGroupId": 1,
+      "brandId": 4,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686899909/Products/bk8p8jdcprr2s3o634r4.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686899911/Products/brltjxhmtcmvjo3ils3s.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686899914/Products/bm6jdvpctfr1rqyderk6.webp",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686899916/Products/chmelsifp6udrg45jnvw.webp"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 14,
+      "name": "Ever Eden Nourishing Baby Face Cream",
+      "price": 2399,
+      "description": "The naturally-derived, nutrient-rich face cream that does it all: deeply-hydrates, soothes, strengthens and smooths.\r\n\r\nInspired by the nature of babies' delicate skin; babies' faces are often drier than the rest of their bodies and are in need of intensive moisture and soothing care. Skin-sensitivities don't stop at delicate baby skin, they commonly extend into adulthood, making this a great daily moisturizer for the entire family.\r\n\r\nThis deeply hydrating, yet fast-absorbing cream is loaded with superfood oils that nourish and soothe dry, sensitive skin with 72-hour hydration- for babies and sensitive adults alike. With continuous use, skin's barrier is strengthened and skin appears softer and smoother.\r\n\r\nAdult Tip: Perfectly preps and primes dry skin for even application of makeup and can help soothe skin after shaving!\r\n",
+      "productGroupId": 1,
+      "brandId": 1,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900054/Products/iuq0qcmbdlsycvp4nrpd.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900056/Products/gza8gsgfqrphk0ehzb37.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900058/Products/fpyy6bipr7iyikcbhn5o.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900060/Products/aekagwbtko0ubrbr0pzo.jpg"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 15,
+      "name": "Ever Eden Premium Mineral Sunscreen SPF30",
+      "price": 2399,
+      "description": "A daily essential to protect delicate baby and kid skin from the sun’s damaging effects, all-year round. This quick-absorbing, 100% mineral-based sunscreen, formulated with non-nano zinc oxide, skin nourishing sunflower and jojoba oils, gives skin the necessary protection and care it needs. Perfectly pairs as the last step in children's daily routine.\r\n100% MINERAL-BASED SUNSCREEN TO HELP PROTECT CHILDREN'S SKIN 365 DAYS A YEAR\r\n\r\n100% non-nano zinc-oxide\r\nBroad-spectrum UVA/UVB SPF30 protection\r\nNon-streaky with no white cast\r\n100% natural fresh cucumber scent\r\nSuitable for face and body\r\nReef-friendly (made without any chemical ingredients including oxybenzone and octinoxate)",
+      "productGroupId": 1,
+      "brandId": 1,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900236/Products/kcgccqhkg4xlsvefnzir.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900238/Products/bcomzlzzfrvnts6jnhfx.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900240/Products/aqcv5qotvzennt5qgyjc.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900242/Products/dl6a0modwidacnssfzgy.jpg"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    },
+    {
+      "id": 16,
+      "name": "Kiehls Body Fuel Wash",
+      "price": 2899,
+      "description": "An invigorating hair and body wash for men for head-to-toe cleansing.\r\n\r\nInfused with Menthol and Caffeine, this efficient body wash is also formulated with Vitamin E, Vitamin C and Zinc. Start your morning with our all-in-one energizing hair and body wash for men. With an uplifting aroma, this versatile body cleanser will kick-start your senses for optimal performance.\r\n\r\nGently removes excess oil, sweat and impurities\r\nCleanses and conditions skin and scalp, leaving them invigorated and refreshed\r\nPacked with the power of a body wash and shampoo all-in-one\r\nFor men’s skin and hair\r\n\r\nZinc Gluconate, a compound of the essential mineral Zinc, is known for its purifying and soothing properties.\r\n",
+      "productGroupId": 3,
+      "brandId": 2,
+      "productImages": [
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892508/Products/ozndxya9n8im9t4cpjwi.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892510/Products/lyfxui2zp2lffiyn1o2e.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892511/Products/ff4smvoegfyp19c97t6b.jpg",
+        "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892513/Products/lw8j6ufctw3dwwqwneb2.jpg"
+      ],
+      "createdAt": "2023-11-01T01:02:25.950Z",
+      "avatar": "https://loremflickr.com/640/480",
+      "introduction": "The Football Is Good For Training And Recreational Purposes",
+      "ingredient": "Water, Propylene Glycol, Squalane, Coco Caprylate/Caprate, Niacinamide, Saccharide Isomerate, Caprylyl Methicone, Pentylene Glycol, Hexylene Glycol, Withania Somnifera (Ashwagandha) Root Extract, Hydrolyzed Jojoba Esters, Caffeine, Sodium Hyaluronate, Glucosyl Hesperidin, Bio-Saccharide Gum-1, Melissa Officinalis (Lemon Balm) Leaf Extract, Hordeum Distichon (Barley) Extract, Caesalpinia Spinosa (Tara) Fruit Pod Extract, Helianthus Annuus (Sunflower) Sprout Extract, Glyceryl Monostearate, Glyceryl Caprylate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fructose, Glycerin, Cetearyl alcohol, Cetearyl Glucoside, Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Caprylhydroxamic Acid, Sodium Gluconate, Fragrance, Sodium Benzoate,Phenoxyethanol, Citric Acid, Sodium Citrate",
+      "detail": "Ashwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week",
+      "howToUse": "After cleansing and toning, scoop out a coin-sized amount of Ashwagandha Bounce into the palm of your hand. Massage gently onto your face and neck in upward strokes. Follow with Patchouli Glow nourishing sunscreen drops for a simple and effective everyday routine that cares for the health of your skin."
+    }
+  ],
+  "productCategories": [
+    {
+      "categoryId": 1,
+      "productId": 6
+    },
+    {
+      "categoryId": 1,
+      "productId": 13
+    },
+    {
+      "categoryId": 1,
+      "productId": 2
+    },
+    {
+      "categoryId": 1,
+      "productId": 7
+    },
+    {
+      "categoryId": 1,
+      "productId": 8
+    },
+    {
+      "categoryId": 1,
+      "productId": 9
+    },
+    {
+      "categoryId": 1,
+      "productId": 12
+    },
+    {
+      "categoryId": 1,
+      "productId": 16
+    },
+    {
+      "categoryId": 2,
+      "productId": 11
+    },
+    {
+      "categoryId": 2,
+      "productId": 16
+    },
+    {
+      "categoryId": 2,
+      "productId": 2
+    },
+    {
+      "categoryId": 2,
+      "productId": 16
+    },
+    {
+      "categoryId": 2,
+      "productId": 1
+    },
+    {
+      "categoryId": 2,
+      "productId": 3
+    },
+    {
+      "categoryId": 2,
+      "productId": 10
+    },
+    {
       "categoryId": 3,
-      "id": 6
+      "productId": 14
     },
     {
-      "createdAt": "2023-10-31T12:37:10.238Z",
-      "name": "Chicken",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "price": "price 7",
-      "ingredient": "ingredient 7",
-      "detail": "detail 7",
-      "howToUse": "howToUse 7",
-      "description": "Generic",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 3,
-      "productGroupId": 3,
-      "categoryId": [
-        1,
-        2,
-        3
-      ],
-      "id": 7
+      "categoryId": 3,
+      "productId": 2
     },
     {
-      "createdAt": "2023-10-31T11:25:51.202Z",
-      "name": "Pants",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "price": "price 8",
-      "ingredient": "ingredient 8",
-      "detail": "detail 8",
-      "howToUse": "howToUse 8",
-      "description": "Rustic",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 2,
-      "productGroupId": 2,
-      "categoryId": [
-        2
-      ],
-      "id": 8
+      "categoryId": 3,
+      "productId": 15
     },
     {
-      "createdAt": "2023-10-31T15:02:36.630Z",
-      "name": "Ball",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "price": "price 9",
-      "ingredient": "ingredient 9",
-      "detail": "detail 9",
-      "howToUse": "howToUse 9",
-      "description": "Luxurious",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 2,
-      "productGroupId": 2,
-      "categoryId": [
-        1
-      ],
-      "id": 9
-    },
-    {
-      "createdAt": "2023-10-31T12:15:16.834Z",
-      "name": "Fish",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
-      "price": "price 10",
-      "ingredient": "ingredient 10",
-      "detail": "detail 10",
-      "howToUse": "howToUse 10",
-      "description": "Oriental",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 2,
-      "productGroupId": 2,
-      "categoryId": [
-        3
-      ],
-      "id": 10
-    },
-    {
-      "createdAt": "2023-10-31T10:53:43.212Z",
-      "name": "Shirt",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": "price 11",
-      "ingredient": "ingredient 11",
-      "detail": "detail 11",
-      "howToUse": "howToUse 11",
-      "description": "Modern",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 2,
-      "productGroupId": 2,
-      "categoryId": [
-        1,
-        2
-      ],
-      "id": 11
-    },
-    {
-      "createdAt": "2023-11-01T04:12:08.755Z",
-      "name": "Chips",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "price": "price 12",
-      "ingredient": "ingredient 12",
-      "detail": "detail 12",
-      "howToUse": "howToUse 12",
-      "description": "Bespoke",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 1,
-      "productGroupId": 1,
-      "categoryId": [
-        2,
-        3
-      ],
-      "id": 12
-    },
-    {
-      "createdAt": "2023-10-31T12:52:38.316Z",
-      "name": "Shoes",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": "price 13",
-      "ingredient": "ingredient 13",
-      "detail": "detail 13",
-      "howToUse": "howToUse 13",
-      "description": "Rustic",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 1,
-      "productGroupId": 1,
-      "categoryId": [
-        1,
-        2,
-        3
-      ],
-      "id": 13
-    },
-    {
-      "createdAt": "2023-11-01T04:52:33.334Z",
-      "name": "Salad",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "price": "price 14",
-      "ingredient": "ingredient 14",
-      "detail": "detail 14",
-      "howToUse": "howToUse 14",
-      "description": "Licensed",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 1,
-      "productGroupId": 1,
-      "categoryId": [
-        1
-      ],
-      "id": 14
-    },
-    {
-      "createdAt": "2023-10-31T10:05:48.362Z",
-      "name": "Computer",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "price": "price 15",
-      "ingredient": "ingredient 15",
-      "detail": "detail 15",
-      "howToUse": "howToUse 15",
-      "description": "Practical",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 4,
-      "productGroupId": 1,
-      "categoryId": [
-        2
-      ],
-      "id": 15
-    },
-    {
-      "createdAt": "2023-10-31T23:42:45.284Z",
-      "name": "Mouse",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-      "price": "price 16",
-      "ingredient": "ingredient 16",
-      "detail": "detail 16",
-      "howToUse": "howToUse 16",
-      "description": "Handcrafted",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 4,
-      "productGroupId": 1,
-      "categoryId": [
-        3
-      ],
-      "id": 16
-    },
-    {
-      "createdAt": "2023-10-31T09:24:27.309Z",
-      "name": "Towels",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "price": "price 17",
-      "ingredient": "ingredient 17",
-      "detail": "detail 17",
-      "howToUse": "howToUse 17",
-      "description": "Rustic",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 5,
-      "productGroupId": 1,
-      "categoryId": [
-        1,
-        2
-      ],
-      "id": 17
-    },
-    {
-      "createdAt": "2023-11-01T03:02:06.300Z",
-      "name": "Bacon",
-      "avatar": "https://loremflickr.com/640/480",
-      "introduction": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "price": "price 18",
-      "ingredient": "ingredient 18",
-      "detail": "detail 18",
-      "howToUse": "howToUse 18",
-      "description": "Handcrafted",
-      "productImages": [
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480",
-        "https://loremflickr.com/640/480"
-      ],
-      "brandId": 5,
-      "productGroupId": 1,
-      "categoryId": [
-        2,
-        3
-      ],
-      "id": 18
+      "categoryId": 3,
+      "productId": 5
     }
   ]
 }

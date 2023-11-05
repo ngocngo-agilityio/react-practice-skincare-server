@@ -9,11 +9,11 @@ app.db = router.db;
 const rules = auth.rewriter({
   // Permission rules
   users: 600,
-  products: 640,
-  brands: 640,
-  "payment-addresses": 640,
-  "product-groups": 640,
-  categories: 640,
+  // products: 640,
+  // brands: 640,
+  // "payment-addresses": 640,
+  // "product-groups": 640,
+  // categories: 640,
 });
 
 // You must apply the middlewares in the following order
