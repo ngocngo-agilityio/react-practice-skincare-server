@@ -22,7 +22,7 @@ app.use(rules);
 const middlewares = jsonServer.defaults();
 app.use("/", middlewares);
 
-app.use('/auth', auth);
+app.use(auth);
 app.use(router);
 
 app.listen(3000, () => {
