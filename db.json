@@ -1,14 +1,6 @@
 {
   "users": [
-    {
-      "email": "Alice.Christiansen71@yahoo.com",
-      "password": "$2a$10$ZfzigLGNe1QMAoIUAn5ajuJcKbfJJE63OtoFJEgcXq6GoBRym8iuO",
-      "createdAt": "2023-10-31T12:16:51.552Z",
-      "name": "Dr. Lela Auer",
-      "username": "Javier6",
-      "mobile": "823-905-1699",
-      "id": 1
-    }
+    
   ],
   "payment-addresses": [
     {
