@@ -8,12 +8,7 @@ const router = jsonServer.router("db.json");
 app.db = router.db;
 const rules = auth.rewriter({
   // Permission rules
-  users: 640,
-  // products: 640,
-  // brands: 640,
-  // "payment-addresses": 640,
-  // "product-groups": 640,
-  // categories: 640,
+  users: 660,
 });
 
 // You must apply the middlewares in the following order
