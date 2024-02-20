@@ -8,7 +8,7 @@ const router = jsonServer.router("db.json");
 app.db = router.db;
 const rules = auth.rewriter({
   // Permission rules
-  users: 600,
+  users: 640,
   // products: 640,
   // brands: 640,
   // "payment-addresses": 640,
