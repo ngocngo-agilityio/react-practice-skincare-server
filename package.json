@@ -5,6 +5,6 @@
   },
   "scripts": {
     "serve": "json-server --watch db.json",
-    "start": "node api/index.js"
+    "start": "node api/server.js"
   }
 }
