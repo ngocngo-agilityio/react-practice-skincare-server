@@ -6,6 +6,12 @@
             "use": "@vercel/node"
         }
     ],
+    "functions": {
+        "index.js": {
+          "memory": 1024,
+          "includeFiles": "db.json"
+        }
+    },
     "routes": [
         {
             "src": "/(.*)",
