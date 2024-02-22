@@ -1,23 +1,11 @@
 {
   "users": [
     {
-      "email": "ngoc.ngo+12@asnet.com",
-      "password": "$2a$10$YTS3diesDxULb7HgdHZwne5ZgMxK/kWQ6gWhtEL3HPBiAaC3KOTZ2",
-      "username": "ngoc.ngo",
-      "id": 1
-    },
-    {
-      "email": "ngoc.ngo+13@asnet.com",
-      "password": "$2a$10$pJ9sRfpJ9XVQSJf/Nbgkme8cvPrzcDgfOs/Ctx2Qk6E06GKOnuiRi",
-      "username": "ngoc.ngo",
-      "id": 2
-    },
-    {
       "email": "ngoc.ngo+1@asnet.com.vn",
       "password": "$2a$10$NDnx1lq/h1/19O0Sl3sATuxSZbO2ZAV5OD59Li0z2/270Xg.oiMHq",
       "name": "Ngoc Ngo",
       "username": "ngocngo",
-      "mobile": "315-234-4444",
+      "phoneNumber": "315-234-4444",
       "id": 3
     }
   ],
