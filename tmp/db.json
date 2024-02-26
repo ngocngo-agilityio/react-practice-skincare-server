@@ -25,20 +25,20 @@
   "categories": [
     {
       "createdAt": "2023-11-01T00:29:44.376Z",
-      "name": "women",
-      "image": "https://loremflickr.com/640/480",
+      "name": "Women",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/women.webp?alt=media",
       "id": 1
     },
     {
       "createdAt": "2023-11-01T02:04:33.873Z",
-      "name": "men",
-      "image": "https://loremflickr.com/640/480",
+      "name": "Men",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/Men.webp?alt=media",
       "id": 2
     },
     {
       "createdAt": "2023-10-31T08:12:32.896Z",
-      "name": "kids",
-      "image": "https://loremflickr.com/640/480",
+      "name": "Kids",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/Kid.webp?alt=media",
       "id": 3
     }
   ],
@@ -78,19 +78,19 @@
     {
       "createdAt": "2023-10-31T13:11:49.388Z",
       "name": "Facial",
-      "image": "https://loremflickr.com/640/480",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/facial.webp?alt=media",
       "id": 1
     },
     {
       "createdAt": "2023-10-31T15:01:37.102Z",
       "name": "Hair",
-      "image": "https://loremflickr.com/640/480",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/hair.png?alt=media",
       "id": 2
     },
     {
       "createdAt": "2023-11-01T01:59:38.498Z",
       "name": "Body",
-      "image": "https://loremflickr.com/640/480",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/body.webp?alt=media",
       "id": 3
     }
   ],
