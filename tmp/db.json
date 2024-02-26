@@ -46,31 +46,31 @@
     {
       "createdAt": "2023-10-31T19:29:45.353Z",
       "name": "Lavender",
-      "panel": "https://loremflickr.com/640/480",
+      "panel": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/lavender.webp?alt=media",
       "id": 1
     },
     {
       "createdAt": "2023-10-31T08:38:10.207Z",
       "name": "Evera",
-      "panel": "https://loremflickr.com/640/480",
+      "panel": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/evera.webp?alt=media",
       "id": 2
     },
     {
       "createdAt": "2023-10-31T19:25:03.809Z",
       "name": "Kaplias",
-      "panel": "https://loremflickr.com/640/480",
+      "panel": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/kaplias.webp?alt=media",
       "id": 3
     },
     {
       "createdAt": "2023-10-31T13:41:45.110Z",
       "name": "Droplets",
-      "panel": "https://loremflickr.com/640/480",
+      "panel": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/water.webp?alt=media",
       "id": 4
     },
     {
       "createdAt": "2023-11-01T02:09:23.161Z",
       "name": "Freshfaced",
-      "panel": "https://loremflickr.com/640/480",
+      "panel": "https://firebasestorage.googleapis.com/v0/b/shoppe-application.appspot.com/o/freshfaced.webp?alt=media",
       "id": 5
     }
   ],
