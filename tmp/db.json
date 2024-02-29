@@ -101,6 +101,7 @@
       "price": 3699,
       "description": "A lightweight conditioner for dry hair.\r\nEnriched with Olive Fruit and Avocado Oils, this lightweight conditioner nourishes hair for a shiny and healthy appearance. Nurture and moisturize with our lightweight conditioner for dry hair. Moisturizes and conditions dry hair\r\nHelps detangle and improve hair’s manageability and suppleness\r\nLightweight formula rinses easily and helps promote shine\r\nFor under-nourished and dry hair\r\nOlive Fruit Oil is obtained by cold pressing ripe olives. This extra virgin oil contains fatty acids and Vitamin E. Within our formulas, it is known to nourish and moisturize skin and hair.\r\n",
       "productGroupId": 2,
+      "categoryId": 1,
       "brandId": 2,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892768/Products/pacgebwvfxi8gehwsrcq.jpg",
@@ -121,6 +122,7 @@
       "price": 1699,
       "description": "For frizzy hair, pH 4.5 - 5.5, safety tested, clinically proven ingredients, paraben freeA conditioner that retains moisture and tames the frizz.\r\nIf your hair fails to hydrate no matter what you try to put into them. Even water cannot penetrate and tends to bead off. Chances are high, you have low porosity hair. Result - Frizzy hair. Heat treatment may appear to help but it is not the solution. Nor are protein-based conditioners. Frizzy hair needs conditioning agents that are lightweight, do not evaporate,  and lock in the moisture on the hair strand. Low porosity frizzy hair needs hydration that stays. ",
       "productGroupId": 2,
+      "categoryId": 2,
       "brandId": 4,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686895547/Products/jgbc6w48or8augg6xrlp.webp",
@@ -141,6 +143,7 @@
       "price": 2899,
       "description": "A mild shampoo with Coconut Oil and Amino Acids that cleanses and softens hair.\r\n\r\nThis gentle shampoo with Coconut Oil and Amino Acids effectively helps to add body and fullness. Cleanse your hair with a mild shampoo that helps soften and add shine.\r\n\r\nWhen chemically united with fatty alcohol or fatty acid, Amino Acids have cleansing properties. Within our formulas, they are known to help retain moisture.\r\n\r\nCoconut Oil is derived from the Coconut Tree, known as the “tree of life.” Used in Ayurvedic medicine for over 4,000 years, Coconut Oil is rich in fatty acids and known to nourish, hydrate and soften.\r\n",
       "productGroupId": 2,
+      "categoryId": 3,
       "brandId": 2,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892615/Products/n8prtza6halacodeazny.jpg",
@@ -161,6 +164,7 @@
       "price": 1899,
       "description": "For all hair types, pH 4.5 - 5.5, safety tested, clinically proven ingredients, paraben free\r\nOur hair change the way we look and more importantly how we feel. Dry, damaged, split ended hair is nobody’s dream. Imagine how it feels to run your fingers through hair that is healthy, voluminous, shiny and well defined. That's a dream you can live. Whether you have normal, straight or curly hair, your hair deserves deep conditioning that does not cause any silicone build-up or does not make your hair frizzy after a few uses.\r\n",
       "productGroupId": 2,
+      "categoryId": 1,
       "brandId": 4,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686896676/Products/pylh5x9vqotqhn79veoi.webp",
@@ -181,6 +185,7 @@
       "price": 3199,
       "description": "HEALTHY HAIR STARTS WITH A HEALTHY SCALP\r\n\r\nAll-in-one formula with MegaVitamin Complex™ creates a healthy foundation for kids’ scalp and hair. Contains both biotin and amino acids to strengthen and condition hair while maiden hair fern and wild thyme extracts provide a gentle, yet long lasting cleansing effect. Gluten-free. \r\n\r\nFormulated for children ages 4+, but can be used by the whole family. Choose between our three 100% natural scents: Cool Peach, Fresh Pomelo, and Melon Juice. 10.1 fl. oz. / 300 ml.\r\n",
       "productGroupId": 2,
+      "categoryId": 2,
       "brandId": 1,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900143/Products/dkr6uhuadmp2sy4d7bwm.jpg",
@@ -201,6 +206,7 @@
       "price": 3499,
       "description": "It helps to efficiently clear dark patches, dark circles, blemishes, and makes you look all glammed up.\r\nHere’s the Best Combo that helps you get an Even Toned, Blemish Free, Brighter & Glowing Skin. With the regular use of the “FACE BRIGHTENING KIT”, you can experience that fresh, young and vivacious look you’ve always wanted. It helps to efficiently clear dark patches, dark circles, blemishes, and makes you look all glammed up. Skin brighteningReduces open poresRemoves blackheads and whiteheadsImparts a clean, clear, fresh and young glowing skinFades dark circles\r\n",
       "productGroupId": 1,
+      "categoryId": 3,
       "brandId": 5,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892163/Products/pfcwnumm20rk3u98hmjm.webp",
@@ -221,6 +227,7 @@
       "price": 2799,
       "description": "Revolutionary pro-melanin care formula with the right balance of vitamins, prebiotics and natural ingredients that combine to deliver to the specific needs of all brown skin\r\nEasy blend formula that gives an even tone, moisturises, blocks upto 97% UV rays and tackles hyperpigmentation\r\nLight-feel product that works well in Indian weather conditions and suits all skin types\r\nAvailable in a 50 ml pack.\r\n\r\nVitamins with their potent antioxidant action help keep hyperpigmentation at bay. Prebiotics derived from nature promote good bacteria to keep skin healthy. Hibiscus adds a nourishing touch to leave skin soft and supple.\r\n",
       "productGroupId": 1,
+      "categoryId": 1,
       "brandId": 3,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892066/Products/t23gjtlyamroawkrntsa.webp",
@@ -241,6 +248,7 @@
       "price": 2499,
       "description": "Revitalizing toner serum with Gotu Kola and Niacinamide\r\n\r\nGotu Kola Dew is a fast-absorbing toner serum infused with the invigorating properties of gotu kola and niacinamide. Its multitasking formulation is clinically proven to leave you with bright and clear skin by providing an instant boost of hydration and reducing the appearance of pores (1).\r\n\r\nGotu Kola is known to aid in collagen production and minimize premature signs of aging like dull skin, dark spots, and fine lines. It is packed with antioxidants and helps the skin retain moisture.\r\n\r\nNiacinamide helps in regulating melanin production to give skin an even tone. This versatile ingredient is known to regulate oil produced from the sebaceous glands and to help restore the skin’s natural barrier against moisture loss and dehydration.\r\n\r\nSuitable for all skin types including sensitive skin.\r\n",
       "productGroupId": 1,
+      "categoryId": 2,
       "brandId": 3,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891870/Products/a4508jlzobr5gg5qunk3.jpg",
@@ -261,6 +269,7 @@
       "price": 2699,
       "description": "Rejuvenating moisturiser with ashwagandha and sodium hyaluronate\r\n\r\nAshwagandha Bounce is a rich yet lightweight moisturiser packed with the refreshing goodness of ashwagandha and sodium hyaluronate. Perfect for daily use, this rejuvenating moisturiser is clinically proven to hydrate and restore your skin to a glowing and naturally healthy state.\r\n\r\n\n By bringing together ashwagandha, which aids in collagen production and restores skin elasticity and sodium hyaluronate, which works to store moisture in your skin for long-lasting hydration, this clinically-proven moisturiser visibly improves your skin’s clarity and firmness in just one week(1).\r\n\r\nSodium hyaluronate (soh·dee·uhm/ hye.a.loo.roe.nate), is a powerful compound that stores moisture in the skin for long-lasting hydration. It is excellent in controlling the effects of dryness to give you balanced and dewy skin. We use a blend of low and high-molecular-weight Sodium HA to give you instant moisturization as well as deeper hydration over time.",
       "productGroupId": 1,
+      "categoryId": 3,
       "brandId": 3,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891737/Products/ru3arrt73nqkmcr1ewfz.webp",
@@ -281,6 +290,7 @@
       "price": 3299,
       "description": "Our #1 hydrating eye cream delivers a pop of energy for tired, fatigued eyes. Formulated with Avocado Oil, Beta-Carotene, and Sodium & Copper PCA, this brightening eye cream immediately improves the look and feel of under eye texture and dry fine lines through all day hydration.\r\n\r\nParaben-free, fragrance-free, silicone-free, mineral oil-free, and synthetic dye-free.\r\n\r\nDerived from the beloved Avocado Fruit, Avocado Oil has a rich, emollient texture and contains a balance of lipids including omega essential fatty acids. Within our formula, the use of renewable Avocado Oil is known to moisturize, nourish and soften skin.\r\n",
       "productGroupId": 1,
+      "categoryId": 1,
       "brandId": 2,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892252/Products/kfyan4h1joyyfutnhwql.jpg",
@@ -301,6 +311,7 @@
       "price": 3699,
       "description": "Our refreshing face wash for men effectively removes debris, dirt and oil with a non-drying cleanse. With Caffeine, Menthol and Vitamin E, this men’s facial cleanser is an energizing way to start the day.\r\n\r\nParaben-free and Alcohol-free.\r\n\r\nCaffeine is an alkaloid known for its stimulating properties. In our formulas, it helps energize and reduce dullness.\r\n\r\nMenthol is an invigorating ingredient known to provide an instant refreshing feeling to skin.\r\n",
       "productGroupId": 1,
+      "categoryId": 2,
       "brandId": 2,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892373/Products/wam3qzvngvmsqckqfywr.jpg",
@@ -321,6 +332,7 @@
       "price": 2899,
       "description": "Soothing sunscreen serum with Turmeric and Ceramides\r\n\r\nTurmeric Shield SPF 40 PA+++ is a lightweight sunscreen serum packed with the healing properties of turmeric and ceramides. Its fast-absorbing, fragrance-free formulation protects against skin damage caused by UVA/UVB rays due to sun exposure and is clinically tested to leave your skin hydrated, healthy and glowing.\r\n\r\nTurmeric is a potent ingredient known for its antioxidant properties that help to soothe irritable skin. It is also known to revive dry and dull skin by protecting it against harsh free radicals and environmental stressors like dirt, dust and pollution, and giving it a healthy and youthful glow.\r\n\r\nCeramides (cer.am.ides) help to replenish the skin’s natural lipid levels to trap moisture in the skin. By doing so, they protect the skin’s barrier against damage caused by harmful external elements.\r\n\r\nTurmeric Shield SPF 40 PA+++ broad-spectrum sunscreen offers protection against UVA and UVB rays. The UV filters in our sunscreen are also known to offer protection from blue light.\r\n",
       "productGroupId": 1,
+      "categoryId": 3,
       "brandId": 3,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686891987/Products/yofhhccmzeuauwxt6icf.webp",
@@ -341,6 +353,7 @@
       "price": 1599,
       "description": "For all skin types, anhydrous formulation, safety tested, clinically proven ingredients, paraben free. They told you to wear sunscreen and why it was the most important thing. The best anti-ageing product and You tried it.  Honestly and religiously. Yet you couldn't continue because it irritated your sensitive skin. Re’equil Sheer Zinc Sunscreen is designed for all skin types, including sensitive skin. Mineral sun protection with a perfect matte texture and universal tint. \r\n",
       "productGroupId": 1,
+      "categoryId": 1,
       "brandId": 4,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686899909/Products/bk8p8jdcprr2s3o634r4.webp",
@@ -361,6 +374,7 @@
       "price": 2399,
       "description": "The naturally-derived, nutrient-rich face cream that does it all: deeply-hydrates, soothes, strengthens and smooths.\r\n\r\nInspired by the nature of babies' delicate skin; babies' faces are often drier than the rest of their bodies and are in need of intensive moisture and soothing care. Skin-sensitivities don't stop at delicate baby skin, they commonly extend into adulthood, making this a great daily moisturizer for the entire family.\r\n\r\nThis deeply hydrating, yet fast-absorbing cream is loaded with superfood oils that nourish and soothe dry, sensitive skin with 72-hour hydration- for babies and sensitive adults alike. With continuous use, skin's barrier is strengthened and skin appears softer and smoother.\r\n\r\nAdult Tip: Perfectly preps and primes dry skin for even application of makeup and can help soothe skin after shaving!\r\n",
       "productGroupId": 1,
+      "categoryId": 2,
       "brandId": 1,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900054/Products/iuq0qcmbdlsycvp4nrpd.jpg",
@@ -381,6 +395,7 @@
       "price": 2399,
       "description": "A daily essential to protect delicate baby and kid skin from the sun’s damaging effects, all-year round. This quick-absorbing, 100% mineral-based sunscreen, formulated with non-nano zinc oxide, skin nourishing sunflower and jojoba oils, gives skin the necessary protection and care it needs. Perfectly pairs as the last step in children's daily routine.\r\n100% MINERAL-BASED SUNSCREEN TO HELP PROTECT CHILDREN'S SKIN 365 DAYS A YEAR\r\n\r\n100% non-nano zinc-oxide\r\nBroad-spectrum UVA/UVB SPF30 protection\r\nNon-streaky with no white cast\r\n100% natural fresh cucumber scent\r\nSuitable for face and body\r\nReef-friendly (made without any chemical ingredients including oxybenzone and octinoxate)",
       "productGroupId": 1,
+      "categoryId": 3,
       "brandId": 1,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686900236/Products/kcgccqhkg4xlsvefnzir.jpg",
@@ -401,6 +416,7 @@
       "price": 2899,
       "description": "An invigorating hair and body wash for men for head-to-toe cleansing.\r\n\r\nInfused with Menthol and Caffeine, this efficient body wash is also formulated with Vitamin E, Vitamin C and Zinc. Start your morning with our all-in-one energizing hair and body wash for men. With an uplifting aroma, this versatile body cleanser will kick-start your senses for optimal performance.\r\n\r\nGently removes excess oil, sweat and impurities\r\nCleanses and conditions skin and scalp, leaving them invigorated and refreshed\r\nPacked with the power of a body wash and shampoo all-in-one\r\nFor men’s skin and hair\r\n\r\nZinc Gluconate, a compound of the essential mineral Zinc, is known for its purifying and soothing properties.\r\n",
       "productGroupId": 3,
+      "categoryId": 1,
       "brandId": 2,
       "productImages": [
         "https://res.cloudinary.com/dmbpxal0o/image/upload/v1686892508/Products/ozndxya9n8im9t4cpjwi.jpg",
