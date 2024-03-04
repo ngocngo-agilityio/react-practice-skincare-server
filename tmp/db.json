@@ -3,8 +3,8 @@
     {
       "email": "ngoc.ngo+1@asnet.com.vn",
       "password": "$2a$10$NDnx1lq/h1/19O0Sl3sATuxSZbO2ZAV5OD59Li0z2/270Xg.oiMHq",
-      "name": "Ngoc Ngo",
-      "username": "ngocngo",
+      "firstName": "Ngoc Ngo",
+      "lastName": "ngocngo",
       "phoneNumber": "315-234-4444",
       "id": 3
     }
